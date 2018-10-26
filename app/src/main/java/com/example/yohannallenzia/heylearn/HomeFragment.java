@@ -22,6 +22,8 @@ public class HomeFragment extends Fragment {
         final Button leanButton = (Button) view.findViewById(R.id.leanButton);
         final Button designButton = (Button) view.findViewById(R.id.designButton);
         final Button emailButton = (Button) view.findViewById(R.id.emailButton);
+        final Button flashcardButton = (Button) view.findViewById(R.id.flashcardButton);
+        final Button slideButton = (Button) view.findViewById(R.id.slideButton);
 
         View.OnClickListener buttonListener = new View.OnClickListener() {
             @Override
@@ -47,9 +49,19 @@ public class HomeFragment extends Fragment {
                     startActivity(intent2);
                 }
                 //emailButton
-                else {
+                else if (x == emailButton){
                     Intent intent3 = new Intent(getContext(), Email.class);
                     startActivity(intent3);
+                }
+                //flashcardButton
+                else if (x == flashcardButton){
+                    Intent intent4 = new Intent(getContext(), CardActivity.class);
+                    startActivity(intent4);
+                }
+                //SlidesButton
+                else if (x == slideButton){
+                    Intent intent5 = new Intent(getContext(), DriveActivity.class);
+                    startActivity(intent5);
                 }
             }
         };
@@ -58,6 +70,8 @@ public class HomeFragment extends Fragment {
         leanButton.setOnClickListener(buttonListener);
         designButton.setOnClickListener(buttonListener);
         emailButton.setOnClickListener(buttonListener);
+        flashcardButton.setOnClickListener(buttonListener);
+        slideButton.setOnClickListener(buttonListener);
 
         return view;
     }
