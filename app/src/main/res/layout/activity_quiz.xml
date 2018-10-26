@@ -80,8 +80,8 @@
         android:layout_marginTop="56dp"
         android:layout_marginEnd="8dp"
         android:text="Correct"
+        android:textSize="18sp"
         app:layout_constraintEnd_toStartOf="@+id/Incorrect"
-        app:layout_constraintHorizontal_bias="0.454"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/CountDown" />
 
@@ -92,6 +92,7 @@
         android:layout_marginTop="56dp"
         android:layout_marginEnd="84dp"
         android:text="Incorrect"
+        android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/CountDown" />
 
