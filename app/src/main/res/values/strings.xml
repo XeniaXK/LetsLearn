@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HeyLearn</string>
+    <string name="title_activity_agile">AgileActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_video">Video</string>
+    <string name="title_quiz">Quiz</string>
+
+    <array name="methodologytype">
+        <item>Agile</item>
+        <item>Lean</item>
+        <item>Design</item>
+    </array>
+
+    <string name="agile1">The term agile was popularized, in this context, by the Manifesto for Agile Software Development. The values and principles espoused in this manifesto were derived from and underpin a broad range of software development frameworks, including Scrum and Kanban. There is significant anecdotal evidence that adopting agile practices and values improves the agility of software professionals, teams and organizations; however, some empirical studies have found no scientific evidence.</string>
+    <string name="agile2">Agile software development is an approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s).It advocates adaptive planning, evolutionary development, early delivery, and continual improvement, and it encourages rapid and flexible response to change.</string>
+    <string name="agile3">The Agile movement is not anti-methodology, in fact many of us want to restore credibility to the word methodology. We want to restore a balance. We embrace modeling, but not in order to file some diagram in a dusty corporate repository. We embrace documentation, but not hundreds of pages of never-maintained and rarely-used tomes. We plan, but recognize the limits of planning in a turbulent environment. Those who would brand proponents of XP or SCRUM or any of the other Agile Methodologies as "hackers" are ignorant of both the methodologies and the original definition of the term hacker.</string>
+
+    <string name="lean1">Lean software development is a translation of lean manufacturing principles and practices to the software development domain. Adapted from the Toyota Production System, it is emerging with the support of a pro-lean subculture within the Agile community. Lean offers a solid conceptual framework, values and principles, as well as good practices, derived from experience, that support agile organizations.</string>
+    <string name="lean2">Software development is a continuous learning process based on iterations when writing code. Software design is a problem solving process involving the developers writing the code and what they have learned. Software value is measured in fitness for use and not in conformance to requirements. Instead of adding more documentation or detailed planning, different ideas could be tried by writing code and building. The process of user requirements gathering could be simplified by presenting screens to the end-users and getting their input. The accumulation of defects should be prevented by running tests as soon as the code is written.</string>
+    <string name="lean3">Lean principles center on the idea that less is more, and they aim to streamline every part of the software development lifecycle.The concept is that efficiencies can be applied and waste can be managed at all levels: each individual, every department, interdepartmental operations, the organization as a whole, and the relationships of the organization with customers and suppliers.When it comes to waste, the lean philosophy has a very broad definition that includes anything that doesnt add value to the product. A lean product development team should focus on learning and, because of the strong demand for software applications today, should decide on features as late as possible to eliminate the need to redo work as the market changes. At the same time, there is equal pressure to deliver as fast as possible.</string>
+
+    <string name="design1">Design thinking refers to a process from which design concepts (proposals for new products) emerge. Design thinking encompasses cognitive and practical activities including problem-finding, decision-making, creativity, sketching, prototyping and evaluating. During design thinking, the designers attention oscillates between their understanding of a problematic context and their ideas for a solution. New solution ideas can lead to a deeper understanding of the problematic context, which in turn triggers more solution ideas.</string>
+    <string name="design2">Unlike analytical thinking, design thinking includes "building up" ideas, with few, or no, limits on breadth during a "brainstorming" phase. This helps reduce fear of failure in the participant(s) and encourages input and participation from a wide variety of sources in the ideation phases. The phrase "thinking outside the box" has been coined to describe one goal of the brainstorming phase and is encouraged, since this can aid in the discovery of hidden elements and ambiguities in the situation and discovering potentially faulty assumptions.</string>
+    <string name="design3">Like many businesses, technology company IBM has embraced the strategy of design thinking to solve consumers problems creatively. What sets IBM apart is its approach to design thinking. IBMs management has said that adapting the way its team members think about the process (yes, thinking about design thinking) has been the biggest change in their approach. They still believe in designing solutions for consumers, and they still believe in defining the problem and brainstorming solutions. But the specific principles that guide their process have made all the difference for IBMs nearly 400,000 employees.</string>
+
+
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "915825347097",
+    "firebase_url": "https://heylearn-3.firebaseio.com",
+    "project_id": "heylearn-3",
+    "storage_bucket": "heylearn-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915825347097:android:fa4f80c2c2e3f146",
+        "android_client_info": {
+          "package_name": "com.example.yohannallenzia.heylearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915825347097-3ou7ahhi3q5fjdq0cs5uak3te22uh0et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yohannallenzia.heylearn",
+            "certificate_hash": "427c9ae89876393a2ac6635bc8cb9de7c66157d0"
+          }
+        },
+        {
+          "client_id": "915825347097-0o75jfs1ulvfshu2bs3646te0cl330on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcUp_wgKLoZkjFXwk9tsjFudMQT5XFKe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915825347097-0o75jfs1ulvfshu2bs3646te0cl330on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
